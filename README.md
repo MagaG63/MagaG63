@@ -55,19 +55,19 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxe7pv6RMMntdWjaDcd-XIyeBho6PnImPc-A&s" height="40" alt="nodejs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1280px-CSS3_logo.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" height="40" alt="react logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt36Arw3AU03ffGtiqqbfCeJ-A_MgydhX1kQ&s" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRztssUmVkQcDl8a8Jd4u8mZxOjX5jydMQA&s" height="40" alt="express logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDlYKWwiHIBw0AwCCpREi9UdXkn0JlZkyCw&s" height="40" alt="nestjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1280px-React_Logo_SVG.svg.png" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&s" height="40" alt="redux logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/120px-NestJS.svg.png" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/color/1200/git.jpg" height="40" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="git logo"  />
   <img width="12" />
 </div>
 
