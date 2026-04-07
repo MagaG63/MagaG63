@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1280px-CSS3_logo.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt36Arw3AU03ffGtiqqbfCeJ-A_MgydhX1kQ&s" height="40" alt="html logo"  />
+  <img src="https://images.icon-icons.com/112/PNG/512/html5_18891.png" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="40" alt="nodejs logo"  />
   <img width="12" />
