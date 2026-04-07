@@ -53,7 +53,21 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxe7pv6RMMntdWjaDcd-XIyeBho6PnImPc-A&s" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRztssUmVkQcDl8a8Jd4u8mZxOjX5jydMQA&s" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDlYKWwiHIBw0AwCCpREi9UdXkn0JlZkyCw&s" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&s" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/1200/git.jpg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
