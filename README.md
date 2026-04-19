@@ -82,3 +82,6 @@
 </div>
 
 ###
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MagaG631&theme=dark)](https://git.io/streak-stats)
