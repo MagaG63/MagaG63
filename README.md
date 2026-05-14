@@ -1,5 +1,6 @@
 <br clear="both">
 
+
 <div align="center">
   <img height="300" width="600" src="svg/ProgrammerCodingGIF.gif"  />
 </div>
